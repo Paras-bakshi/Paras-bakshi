@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Paras Bakshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Paras</h1>
+<h3 align="center">Student Developer with excellent problem solving skills and ability to perform well in a team
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
