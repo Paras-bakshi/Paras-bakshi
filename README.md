@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Bakshi</h1>
-<h3 align="center">Student Developer with excellent problem solving skills and ability to perform well in a team
+<h3 align="center">Software Developer with excellent problem solving skills and ability to perform well in a team
 </h3>
 
 <h3 align="left">Connect with me:</h3>
