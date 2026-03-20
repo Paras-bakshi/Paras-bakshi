@@ -1,13 +1,67 @@
-<h1 align="center">Hi 👋, I'm Paras Bakshi</h1>
-<h3 align="center">Software Developer with excellent problem solving skills and ability to perform well in a team
-</h3>
+# 🌟 Paras Bakshi — AI-Driven Full-Stack Developer  
+**Java | React | Spring Boot | Microservices | Python | Kafka | AWS | GenAI (LLMs, RAG, LangChain, LangGraph)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paras-bakshi-1797141a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paras-bakshi-1797141a7" height="30" width="40" /></a>
-<a href="https://instagram.com/parasbakshi27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parasbakshi27" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/parasbakshi2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parasbakshi2001" height="30" width="40" /></a>
-</p>
+🚀 Building scalable, intelligent systems powering **850K+ users** and influencing **$600M+ annual revenue**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+I’m an **AI-driven Full-Stack & Backend Developer** passionate about building scalable, distributed, and fault-tolerant systems.  
+My work spans high-performance microservices, cloud-native architectures, and GenAI-driven automation.
+
+- 🔥 Scaled systems used by **850K+ global users**
+- 💰 Direct engineering impact on revenue streams > **$600M**
+- 🤖 Building AI-driven automation using **LLMs, RAG, LangChain, LangGraph**
+- ☁️ Cloud-native development using **AWS + Terraform**
+- ⚡ Kafka-based event-driven architectures
+- 🧩 Strong experience in Python async frameworks & performance optimization
+- 🔍 Obsessed with clean architecture, automation, reliability & performance
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend & Distributed Systems**
+- Java, Spring Boot, Microservices  
+- Python, Sanic, AsyncIO, Tortoise ORM  
+- Kafka, Redis, MySQL, PostgreSQL  
+- REST APIs, Distributed Systems, CI/CD
+
+### **Frontend**
+- React.js, JavaScript
+
+### **Cloud & DevOps**
+- AWS (EC2, Lambda, S3, API Gateway, CloudWatch)  
+- Terraform, Jenkins, GitHub Actions  
+- Containers, Cloud-native deployments
+
+### **AI / GenAI**
+- Large Language Model Integrations  
+- Retrieval-Augmented Generation (RAG)  
+- LangChain, LangGraph  
+- Prompt Engineering & Vector Stores
+
+---
+
+## 🚀 Experience Highlights
+
+### **Software Developer Engineer — Shell**
+- Built scalable, fault-tolerant enterprise microservices  
+- Delivered cloud-native architectures using Java, Spring Boot, Kafka, MySQL, AWS, Terraform  
+- Automated CI/CD pipelines & improved performance across data-heavy systems
+
+### **Software Developer (Backend) — TATA 1MG**
+- Migrated payments service to async Sanic → **3× RPS**, **3× transfer uplift**, **70% lower latency**  
+- Optimized SQL queries → **40% faster execution**  
+- Strengthened API reliability with **90%+ PyTest coverage**  
+- Led incident response & production debugging
+
+---
+
+## 📊 GitHub Stats
+
+> Replace `Paras-bakshi` with your GitHub handle.
+
+```md
+![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
