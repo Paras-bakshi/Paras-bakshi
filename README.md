@@ -57,9 +57,3 @@ My work spans high-performance microservices, cloud-native architectures, and Ge
 - Led incident response & production debugging
 
 ---
-
-## 📊 GitHub Stats
-
-```md
-![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paras-bakshi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-bakshi&layout=compact&theme=radical)
