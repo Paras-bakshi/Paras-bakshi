@@ -1,64 +1,65 @@
+# 🌟 Paras Bakshi — AI-Driven Full-Stack Developer  
+**Java | React | Spring Boot | Microservices | Python | Kafka | AWS | GenAI (LLMs, RAG, LangChain, LangGraph)**
+
+🚀 Building scalable, intelligent systems powering **850K+ users** and influencing **$600M+ annual revenue**.
 
 ---
 
-# 🧑‍💼 **2️⃣ RECRUITER-FOCUSED VERSION (READY TO PASTE)**
+## 👨‍💻 About Me
+I’m an **AI-driven Full-Stack & Backend Developer** passionate about building scalable, distributed, and fault-tolerant systems.  
+My work spans high-performance microservices, cloud-native architectures, and GenAI-driven automation.
 
-```md
-# Paras Bakshi — Full-Stack & Backend Engineer (AI-Driven)
-
-**Java | Spring Boot | Microservices | Python | Kafka | AWS | GenAI | RAG | LangChain | LangGraph**
-
-Experienced Software Developer with a strong background in building scalable, high-performance, cloud-native systems.  
-Delivered engineering solutions impacting **850K+ users** and contributing to **$600M+ annual revenue**.
-
----
-
-## 🔥 Summary
-- 2+ years of experience in backend, full-stack, and AI-driven systems  
-- Expertise in distributed systems, microservices, and cloud architectures  
-- Strong experience integrating LLMs, RAG, and AI automation into production systems  
-- Proven ability to optimize performance, reduce latency, and improve reliability  
-- Skilled in both Java/Spring and Python/Async ecosystems  
+- 🔥 Scaled systems used by **850K+ global users**
+- 💰 Direct engineering impact on revenue streams > **$600M**
+- 🤖 Building AI-driven automation using **LLMs, RAG, LangChain, LangGraph**
+- ☁️ Cloud-native development using **AWS + Terraform**
+- ⚡ Kafka-based event-driven architectures
+- 🧩 Strong experience in Python async frameworks & performance optimization
+- 🔍 Obsessed with clean architecture, automation, reliability & performance
 
 ---
 
-## 🛠 Core Technical Skills
+## 🛠️ Tech Stack
 
-### **Backend Development**
-Java, Spring Boot, Microservices, Python (Sanic, AsyncIO), REST APIs  
-Kafka, Redis, MySQL, PostgreSQL  
-
-### **AI & GenAI**
-LLM Integrations, RAG Pipelines, LangChain, LangGraph, Vector Stores  
-
-### **Cloud**
-AWS (EC2, Lambda, API Gateway), Terraform, CI/CD, Jenkins, GitHub Actions  
+### **Backend & Distributed Systems**
+- Java, Spring Boot, Microservices  
+- Python, Sanic, AsyncIO, Tortoise ORM  
+- Kafka, Redis, MySQL, PostgreSQL  
+- REST APIs, Distributed Systems, CI/CD
 
 ### **Frontend**
-React.js, JavaScript  
+- React.js, JavaScript
+
+### **Cloud & DevOps**
+- AWS (EC2, Lambda, S3, API Gateway, CloudWatch)  
+- Terraform, Jenkins, GitHub Actions  
+- Containers, Cloud-native deployments
+
+### **AI / GenAI**
+- Large Language Model Integrations  
+- Retrieval-Augmented Generation (RAG)  
+- LangChain, LangGraph  
+- Prompt Engineering & Vector Stores
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Experience Highlights
 
 ### **Software Developer Engineer — Shell**
-- Built distributed microservices using Java, Spring Boot, Kafka  
-- Designed scalable cloud-native architecture deployed on AWS  
-- Implemented CI/CD pipelines and automated deployments  
-- Developed and optimized high-performance backend systems  
+- Built scalable, fault-tolerant enterprise microservices  
+- Delivered cloud-native architectures using Java, Spring Boot, Kafka, MySQL, AWS, Terraform  
+- Automated CI/CD pipelines & improved performance across data-heavy systems
 
-### **Backend Developer — TATA 1MG**
-- Migrated the payments service from Hydra → Async Sanic  
-  → Result: **3× RPS**, **3× transfer uplift**, **70% latency reduction**  
-- Integrated Tortoise ORM and optimized SQL  
-  → **Reduced execution time by 40%**  
-- Ensured API reliability with **90%+ PyTest automation coverage**  
-- On-call for production issues, performance tuning, and debugging  
+### **Software Developer (Backend) — TATA 1MG**
+- Migrated payments service to async Sanic → **3× RPS**, **3× transfer uplift**, **70% lower latency**  
+- Optimized SQL queries → **40% faster execution**  
+- Strengthened API reliability with **90%+ PyTest coverage**  
+- Led incident response & production debugging
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Stats
 
 ```md
-![Paras GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paras-bakshi&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-bakshi&layout=compact&theme=default)
+![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paras-bakshi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-bakshi&layout=compact&theme=radical)
