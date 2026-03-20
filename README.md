@@ -60,8 +60,6 @@ My work spans high-performance microservices, cloud-native architectures, and Ge
 
 ## 📊 GitHub Stats
 
-> Replace `Paras-bakshi` with your GitHub handle.
-
 ```md
-![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Paras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paras-bakshi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-bakshi&layout=compact&theme=radical)
